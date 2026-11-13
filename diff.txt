@@ -1,0 +1,11 @@
+diff --git a/README.md b/README.md
+index 7690453..e682cdb 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+-Всем привет
+\ No newline at end of file
++Всем привет
++Привет, мир
+\ No newline at end of file
+
