@@ -1,0 +1,43 @@
+*   commit ef725ccfe3ff27d309dd270a5c0166bf9b573ce7 (HEAD -> main)
+|\  Merge: f74b9d6 3b665a5
+| | Author: Stanislava <stsechkaaaaaa@mail.ru>
+| | Date:   Thu Nov 19 22:50:21 2026 +0700
+| |
+| |     разрешение конфликта
+| |
+| * commit 3b665a5ff797a26c91e0f78143caa0298f8f47b6 (new)
+| | Author: Stanislava <stsechkaaaaaa@mail.ru>
+| | Date:   Thu Nov 19 22:13:40 2026 +0700
+| |
+| |     сообщение
+| |
+* | commit f74b9d69ec352dd3c053062131d668e9e3003e43
+| | Author: Stanislava <stsechkaaaaaa@mail.ru>
+| | Date:   Thu Nov 19 22:36:56 2026 +0700
+| |
+| |     текст на другой строке
+| |
+* | commit 0532165dbcded7cba978fd6247c1d9bf71ba4625
+|/  Author: Stanislava <stsechkaaaaaa@mail.ru>
+|   Date:   Thu Nov 19 22:28:52 2026 +0700
+|
+|       текст
+|
+* commit 7e9222a62f1f1a6bcb8623e2a077f3ca5248b63c (origin/main)
+| Author: Stanislava <stsechkaaaaaa@mail.ru>
+| Date:   Fri Nov 13 19:59:07 2026 +0700
+|
+|     сделали 8 шаг
+|
+* commit a23348f52c128c27a7b9fd4d5add99ddf3658887
+| Author: Stanislava <stsechkaaaaaa@mail.ru>
+| Date:   Fri Nov 13 19:55:43 2026 +0700
+|
+|     цитировали сообщение из программы
+|
+* commit 5fd17c3c85994a9d772b298065735302ea99045a
+  Author: Stanislava <stsechkaaaaaa@mail.ru>
+  Date:   Fri Nov 13 19:46:17 2026 +0700
+
+      добавлено описание
+
